@@ -1,7 +1,7 @@
 # Hey, I'm Jan Sernec 👋
 <p>CS Student, and freelance fullstack developer!</p>
 <p>Good in <b>Vue.js</b>,<b>Flask</b>, <b>Html/CSS</b>, currently learning <b>React<b> </p>
-  <p>You can checkout www.jansernec.me   <i><-Currently redesigning</i></p>
+  <p>My portfolio  https://jansernecportfolio.netlify.app/   <i><-Currently redesigning</i></p>
  
 
 <!--
