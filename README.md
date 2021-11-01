@@ -1,10 +1,9 @@
 # Hey, I'm Jan Sernec 👋
 <ul>
   <li>CS Student, and a freelance fullstack developer</li>
-  <li>Frontend: Vue.js, React </li>
-  <li>Backend: Node.js, Express, Flask<l>
-    <li> Also familliar with: C++, Python</li>
-    <li>My portfolio  https://jansernecportfolio.netlify.app/   <i><-Currently redesigning</i> </li>
+  <li>Frontend: React, Vue.js </li>
+  <li>Backend: Node.js, Express, Flask, Firebase<l>
+    <li> Also familliar with: C++, Python, Bash</li>
     </ul>
 
 
