@@ -4,7 +4,7 @@
   <li>Frontend: React, Vue.js </li>
   <li>Backend: Node.js, Express, Flask, Firebase<l>
     <li> Also familliar with: C++, Python, Bash</li>
-    <li>Currently working on [Nft-tracker] </li>
+    <li>Currently working as a Frontend Dev at Iskratel </li>
     </ul>
 
 
