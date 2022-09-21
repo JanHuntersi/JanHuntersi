@@ -3,7 +3,7 @@
   <li>CS Student at Feri 3/3</li> 
     <li> Familliar with: JS (React/Express), C++, Kotlin, Python</li>
     <li>Currently working as a Frontend Dev (mostly React.js)  at Iskratel </li>
-    <li> Interested in trying out new technologies! </li>
+    <li> Interested at solving problems one code at a time </li>
     </ul>
 
 
