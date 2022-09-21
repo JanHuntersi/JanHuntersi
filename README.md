@@ -1,10 +1,9 @@
 # Hey, I'm Jan Sernec 👋
 <ul>
-  <li>CS Student</li>
-  <li>Frontend: React, Vue.js </li>
-  <li>Backend: Node.js, Express, Flask, Firebase<l>
-    <li> Also familliar with: C++, Python, Bash</li>
-    <li>Currently working as a Frontend Dev at Iskratel </li>
+  <li>CS Student at Feri 3/3</li> 
+    <li> Familliar with: JS (React/Express), C++, Kotlin, Python</li>
+    <li>Currently working as a Frontend Dev (mostly React.js)  at Iskratel </li>
+    <li> Interested in etrying out new technologies! </li>
     </ul>
 
 
