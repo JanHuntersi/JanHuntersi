@@ -1,7 +1,7 @@
 # Hey, I'm Jan Sernec 👋
 <ul>
   <li>CS Student at Feri Masters IPT 1. yrear</li> 
-    <li> Familliar with: too many JS frameworks, C#, Python (Scikit-learn, PyTorch) </li>
+    <li> Familliar with: too many JS frameworks (mostly React.js and Nest.js), C#, Python (Scikit-learn, PyTorch) </li>
     <li>Currently working as a Frontend Developer using  Vue.js, Vuex, Kabana </li>
     <li> Interested at solving problems one code at a time </li>
     </ul>
